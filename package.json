@@ -2,7 +2,7 @@
   "name": "shellcheck",
   "displayName": "ShellCheck",
   "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "publisher": "timonwong",
   "author": "Timon Wong <timon86.wang@gmail.com> (https://github.com/timonwong)",
   "contributors": [
@@ -224,7 +224,7 @@
     "execa": "^5.0.0",
     "lodash": "^4.17.19",
     "minimatch": "^5.1.0",
-    "semver": "^7.3.7"
+    "semver": "^7.3.8"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
@@ -233,16 +233,16 @@
     "@types/lodash": "^4.14.186",
     "@types/minimatch": "^5.1.2",
     "@types/mocha": "^10.0.0",
-    "@types/node": "^14.18.31",
+    "@types/node": "^14.18.32",
     "@types/semver": "^7.3.12",
     "@types/vscode": "~1.57.0",
-    "@typescript-eslint/eslint-plugin": "^5.39.0",
-    "@typescript-eslint/parser": "^5.39.0",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
+    "@typescript-eslint/parser": "^5.40.0",
     "@vscode/test-electron": "^2.1.5",
     "bindl": "^2.0.0",
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "cspell": "^6.12.0",
-    "eslint": "^8.24.0",
+    "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
     "glob": "^8.0.3",
     "kind-of": "^6.0.3",
